@@ -1,5 +1,5 @@
 {
-  "name": "claude-explain",
+  "name": "@adacircuit/claude-explain",
   "version": "0.1.0",
   "type": "module",
   "bin": { "claude-explain": "./dist/cli.js" },
